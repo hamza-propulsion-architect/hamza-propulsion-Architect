@@ -46,7 +46,7 @@ I am a multidisciplinary Systems Engineer bridging the gap between **Heavy Mecha
 
 ### 📫 Connect with the Architect
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ameer-hamza-uav-propulsion)
-[<img align="left" src="https://img.shields.io/badge/Newsletter-FF6600?style=for-the-badge&logo=rss&logoColor=white" />](https://www.linkedin.com/newsletters/7212456455124037633/)
+[<img align="left" src="https://img.shields.io/badge/Newsletter-FF6600?style=for-the-badge&logo=rss&logoColor=white" />](https://www.linkedin.com/newsletters/uav-propulsion-architect-7459144444857020416/)
 <br><br>
 
 ---
